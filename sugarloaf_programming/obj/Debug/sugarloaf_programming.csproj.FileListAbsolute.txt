@@ -1,0 +1,14 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\bin\Debug\sugarloaf_programming.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\sugarloaf_programming\sugarloaf_programming\obj\Debug\sugarloaf_programming.pdb
